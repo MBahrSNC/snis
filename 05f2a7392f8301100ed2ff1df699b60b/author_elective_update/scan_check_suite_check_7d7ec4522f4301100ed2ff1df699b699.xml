@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="scan_check_suite_check">
+    <scan_check_suite_check action="DELETE">
+        <check display_value="Check Fix Scripts that delete records">fd3ba3bd2fc301100ed2ff1df699b6f8</check>
+        <score_weight>1</score_weight>
+        <suite display_value="SNIS - Scoped App Instance Scan Suite">e63e0cde2f0301100ed2ff1df699b6ad</suite>
+        <sys_class_name>scan_check_suite_check</sys_class_name>
+        <sys_created_by>mike.bahr</sys_created_by>
+        <sys_created_on>2022-04-25 23:40:57</sys_created_on>
+        <sys_id>7d7ec4522f4301100ed2ff1df699b699</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Instance Scan" source="x_298439_snis">05f2a7392f8301100ed2ff1df699b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Scan">05f2a7392f8301100ed2ff1df699b60b</sys_scope>
+        <sys_update_name>scan_check_suite_check_7d7ec4522f4301100ed2ff1df699b699</sys_update_name>
+        <sys_updated_by>mike.bahr</sys_updated_by>
+        <sys_updated_on>2022-04-25 23:40:57</sys_updated_on>
+    </scan_check_suite_check>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Instance Scan">05f2a7392f8301100ed2ff1df699b60b</application>
+        <file_path/>
+        <instance_id>525519cadb0b005852dd2f17d496198c</instance_id>
+        <instance_name>dev101432</instance_name>
+        <name>scan_check_suite_check_7d7ec4522f4301100ed2ff1df699b699</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="scan_check_suite_check"><scan_check_suite_check action="INSERT_OR_UPDATE"><check display_value="Check Fix Scripts that delete records">fd3ba3bd2fc301100ed2ff1df699b6f8</check><score_weight>1</score_weight><suite display_value="SNIS - Scoped App Instance Scan Suite">e63e0cde2f0301100ed2ff1df699b6ad</suite><sys_class_name>scan_check_suite_check</sys_class_name><sys_created_by>mike.bahr</sys_created_by><sys_created_on>2022-04-25 23:40:57</sys_created_on><sys_id>7d7ec4522f4301100ed2ff1df699b699</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Instance Scan" source="x_298439_snis">05f2a7392f8301100ed2ff1df699b60b</sys_package><sys_policy/><sys_scope display_value="Instance Scan">05f2a7392f8301100ed2ff1df699b60b</sys_scope><sys_update_name>scan_check_suite_check_7d7ec4522f4301100ed2ff1df699b699</sys_update_name><sys_updated_by>mike.bahr</sys_updated_by><sys_updated_on>2022-04-25 23:40:57</sys_updated_on></scan_check_suite_check></record_update>]]></payload>
+        <payload_hash>1489533634</payload_hash>
+        <record_name>fd3ba3bd2fc301100ed2ff1df699b6f8</record_name>
+        <reverted_from/>
+        <source>39342f752f0301100ed2ff1df699b6fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mike.bahr</sys_created_by>
+        <sys_created_on>2022-04-25 23:40:57</sys_created_on>
+        <sys_id>b57ec4522f4301100ed2ff1df699b69c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1806319828a0000001</sys_recorded_at>
+        <sys_updated_by>mike.bahr</sys_updated_by>
+        <sys_updated_on>2022-04-25 23:40:57</sys_updated_on>
+        <type>Suite Check</type>
+        <update_guid>fd7ec4525543011084718c249b0c9d9b</update_guid>
+        <update_guid_history>fd7ec4525543011084718c249b0c9d9b:1489533634</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Check Fix Scripts that delete records">0869545e2f4301100ed2ff1df699b6f7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mike.bahr</sys_created_by>
+        <sys_created_on>2022-04-26 00:28:38</sys_created_on>
+        <sys_db_object display_value="" name="scan_check_suite_check">scan_check_suite_check</sys_db_object>
+        <sys_id>6700222b963749cea5996f7cb99e8d99</sys_id>
+        <sys_metadata>7d7ec4522f4301100ed2ff1df699b699</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Instance Scan" source="x_298439_snis">05f2a7392f8301100ed2ff1df699b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Instance Scan">05f2a7392f8301100ed2ff1df699b60b</sys_scope>
+        <sys_scope_delete display_value="">63b4d7cda7154e40a7f28759ec639000</sys_scope_delete>
+        <sys_update_name>scan_check_suite_check_7d7ec4522f4301100ed2ff1df699b699</sys_update_name>
+        <sys_update_version display_value="scan_check_suite_check_7d7ec4522f4301100ed2ff1df699b699">b57ec4522f4301100ed2ff1df699b69c</sys_update_version>
+        <sys_updated_by>mike.bahr</sys_updated_by>
+        <sys_updated_on>2022-04-26 00:28:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="scan_table_check">
+    <scan_table_check action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <category>security</category>
+        <conditions table="sys_security_acl_role">sys_user_role=b0593b350a0a0aa7001d689e4542dc28^EQ<item display_table="sys_user_role" display_value="public" endquery="false" field="sys_user_role" goto="false" newquery="false" operator="=" or="false" value="b0593b350a0a0aa7001d689e4542dc28"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description>This checks for any ACLs that have the public role</description>
+        <documentation_url/>
+        <finding_type>scan_finding</finding_type>
+        <name>ACLs - Public ACLs check</name>
+        <priority>1</priority>
+        <resolution_details/>
+        <run_condition/>
+        <score_max>100</score_max>
+        <score_min>0</score_min>
+        <score_scale>1</score_scale>
+        <script><![CDATA[(function (engine) {
+
+    // Add your code here
+
+})(engine);]]></script>
+        <short_description>ACLs - Public ACLs check</short_description>
+        <sys_class_name>scan_table_check</sys_class_name>
+        <sys_created_by>mike.bahr</sys_created_by>
+        <sys_created_on>2022-04-26 00:40:33</sys_created_on>
+        <sys_id>ae8b9cde2f4301100ed2ff1df699b621</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ACLs - Public ACLs check</sys_name>
+        <sys_package display_value="Instance Scan" source="x_298439_snis">05f2a7392f8301100ed2ff1df699b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Scan">05f2a7392f8301100ed2ff1df699b60b</sys_scope>
+        <sys_update_name>scan_table_check_ae8b9cde2f4301100ed2ff1df699b621</sys_update_name>
+        <sys_updated_by>mike.bahr</sys_updated_by>
+        <sys_updated_on>2022-04-26 00:40:33</sys_updated_on>
+        <table>sys_security_acl_role</table>
+        <use_manifest>false</use_manifest>
+    </scan_table_check>
+</record_update>

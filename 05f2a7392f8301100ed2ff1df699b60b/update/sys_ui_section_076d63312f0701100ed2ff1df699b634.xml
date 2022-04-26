@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="SNIS" section_id="076d63312f0701100ed2ff1df699b634" sys_domain="global" table="scan_finding" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>count</element>
+            <position>0</position>
+            <sys_created_by>mike.bahr</sys_created_by>
+            <sys_created_on>2022-04-25 02:38:31</sys_created_on>
+            <sys_id>0d8d6f312f0701100ed2ff1df699b6b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="SNIS" display_value="SNIS" name="scan_finding" sys_domain="global" view="Default view">076d63312f0701100ed2ff1df699b634</sys_ui_section>
+            <sys_updated_by>mike.bahr</sys_updated_by>
+            <sys_updated_on>2022-04-25 02:38:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>check.short_description</element>
+            <position>1</position>
+            <sys_created_by>mike.bahr</sys_created_by>
+            <sys_created_on>2022-04-25 02:38:31</sys_created_on>
+            <sys_id>818d6f312f0701100ed2ff1df699b6b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="SNIS" display_value="SNIS" name="scan_finding" sys_domain="global" view="Default view">076d63312f0701100ed2ff1df699b634</sys_ui_section>
+            <sys_updated_by>mike.bahr</sys_updated_by>
+            <sys_updated_on>2022-04-25 02:38:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>check.resolution_details</element>
+            <position>2</position>
+            <sys_created_by>mike.bahr</sys_created_by>
+            <sys_created_on>2022-04-25 02:38:31</sys_created_on>
+            <sys_id>058d6f312f0701100ed2ff1df699b6b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="SNIS" display_value="SNIS" name="scan_finding" sys_domain="global" view="Default view">076d63312f0701100ed2ff1df699b634</sys_ui_section>
+            <sys_updated_by>mike.bahr</sys_updated_by>
+            <sys_updated_on>2022-04-25 02:38:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>check.priority</element>
+            <position>3</position>
+            <sys_created_by>mike.bahr</sys_created_by>
+            <sys_created_on>2022-04-25 02:38:31</sys_created_on>
+            <sys_id>858d6f312f0701100ed2ff1df699b6b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="SNIS" display_value="SNIS" name="scan_finding" sys_domain="global" view="Default view">076d63312f0701100ed2ff1df699b634</sys_ui_section>
+            <sys_updated_by>mike.bahr</sys_updated_by>
+            <sys_updated_on>2022-04-25 02:38:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>check.category</element>
+            <position>4</position>
+            <sys_created_by>mike.bahr</sys_created_by>
+            <sys_created_on>2022-04-25 02:38:31</sys_created_on>
+            <sys_id>098d6f312f0701100ed2ff1df699b6b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="SNIS" display_value="SNIS" name="scan_finding" sys_domain="global" view="Default view">076d63312f0701100ed2ff1df699b634</sys_ui_section>
+            <sys_updated_by>mike.bahr</sys_updated_by>
+            <sys_updated_on>2022-04-25 02:38:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>scan_mute_rule.mute_reason</element>
+            <position>5</position>
+            <sys_created_by>mike.bahr</sys_created_by>
+            <sys_created_on>2022-04-25 02:38:31</sys_created_on>
+            <sys_id>898d6f312f0701100ed2ff1df699b6b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="SNIS" display_value="SNIS" name="scan_finding" sys_domain="global" view="Default view">076d63312f0701100ed2ff1df699b634</sys_ui_section>
+            <sys_updated_by>mike.bahr</sys_updated_by>
+            <sys_updated_on>2022-04-25 02:38:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>finding_details</element>
+            <position>6</position>
+            <sys_created_by>mike.bahr</sys_created_by>
+            <sys_created_on>2022-04-25 02:38:31</sys_created_on>
+            <sys_id>0d8d6f312f0701100ed2ff1df699b6b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="SNIS" display_value="SNIS" name="scan_finding" sys_domain="global" view="Default view">076d63312f0701100ed2ff1df699b634</sys_ui_section>
+            <sys_updated_by>mike.bahr</sys_updated_by>
+            <sys_updated_on>2022-04-25 02:38:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>SNIS</caption>
+            <header>false</header>
+            <name>scan_finding</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>mike.bahr</sys_created_by>
+            <sys_created_on>2022-04-25 02:38:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>076d63312f0701100ed2ff1df699b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>scan_finding</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Instance Scan" source="x_298439_snis">05f2a7392f8301100ed2ff1df699b60b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Instance Scan">05f2a7392f8301100ed2ff1df699b60b</sys_scope>
+            <sys_update_name>sys_ui_section_076d63312f0701100ed2ff1df699b634</sys_update_name>
+            <sys_updated_by>mike.bahr</sys_updated_by>
+            <sys_updated_on>2022-04-25 02:38:06</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

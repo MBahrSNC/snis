@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_298439_snis_tasks">x_298439_snis_tasks</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SNIST</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>mike.bahr</sys_created_by>
+        <sys_created_on>2022-04-26 00:53:46</sys_created_on>
+        <sys_id>982f90162f8301100ed2ff1df699b624</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SNIST</sys_name>
+        <sys_package display_value="Instance Scan" source="x_298439_snis">05f2a7392f8301100ed2ff1df699b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Scan">05f2a7392f8301100ed2ff1df699b60b</sys_scope>
+        <sys_update_name>sys_number_982f90162f8301100ed2ff1df699b624</sys_update_name>
+        <sys_updated_by>mike.bahr</sys_updated_by>
+        <sys_updated_on>2022-04-26 00:53:46</sys_updated_on>
+    </sys_number>
+</record_update>

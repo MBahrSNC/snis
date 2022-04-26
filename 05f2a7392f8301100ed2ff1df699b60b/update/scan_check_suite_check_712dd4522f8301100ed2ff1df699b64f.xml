@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="scan_check_suite_check">
+    <scan_check_suite_check action="INSERT_OR_UPDATE">
+        <check display_value="ACLs - Public ACLs check">ae8b9cde2f4301100ed2ff1df699b621</check>
+        <score_weight>1</score_weight>
+        <suite display_value="SNIS - Scoped App Instance Scan Suite">e63e0cde2f0301100ed2ff1df699b6ad</suite>
+        <sys_class_name>scan_check_suite_check</sys_class_name>
+        <sys_created_by>mike.bahr</sys_created_by>
+        <sys_created_on>2022-04-26 00:45:08</sys_created_on>
+        <sys_id>712dd4522f8301100ed2ff1df699b64f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Instance Scan" source="x_298439_snis">05f2a7392f8301100ed2ff1df699b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Instance Scan">05f2a7392f8301100ed2ff1df699b60b</sys_scope>
+        <sys_update_name>scan_check_suite_check_712dd4522f8301100ed2ff1df699b64f</sys_update_name>
+        <sys_updated_by>mike.bahr</sys_updated_by>
+        <sys_updated_on>2022-04-26 00:45:08</sys_updated_on>
+    </scan_check_suite_check>
+</record_update>

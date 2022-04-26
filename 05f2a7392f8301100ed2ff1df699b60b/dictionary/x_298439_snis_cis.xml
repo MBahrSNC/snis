@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="CIs" max_length="40" name="x_298439_snis_cis" type="collection"/>
+</database>
